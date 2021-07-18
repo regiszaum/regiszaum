@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <p>• :revolving_hearts: Aprendendo Flutter. </p>
 <p>• :hand: Desenvolvedor Frontend & Mobile </p>
 <p>• :cat: Naja "F" :cat: </p>
+
+[:triangular_flag_on_post:Linkedin](https://www.linkedin.com/in/regisadrianofilho/)
+[:video_game: Steam](https://steamcommunity.com/id/regiszaum)
