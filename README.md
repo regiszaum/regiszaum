@@ -1,4 +1,4 @@
-### Hi there 👋
+### Saudações! E Bem-vindo ao meu perfil 👋
 
 <!--
 **regiszaum/regiszaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+• :revolving_hearts: Aprendendo Flutter.
+• :hand: Desenvolvedor Frontend & Mobile
+• :cat: Naja "F" :cat:
