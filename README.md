@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-• :revolving_hearts: Aprendendo Flutter.
-• :hand: Desenvolvedor Frontend & Mobile
-• :cat: Naja "F" :cat:
+<p>• :revolving_hearts: Aprendendo Flutter. </p>
+<p>• :hand: Desenvolvedor Frontend & Mobile </p>
+<p>• :cat: Naja "F" :cat: </p>
