@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>• :revolving_hearts: Aprendendo Flutter. </p>
+<p>• :revolving_hearts: Flutter & Vue </p>
 <p>• :hand: Desenvolvedor Frontend & Mobile </p>
-<p>• :cat: Naja "F" :cat: </p>
+<!-- <p>• :cat: Naja "F" :cat: </p> -->
 
 [:triangular_flag_on_post:Linkedin](https://www.linkedin.com/in/regisadrianofilho/)
 [:video_game: Steam](https://steamcommunity.com/id/regiszaum)
