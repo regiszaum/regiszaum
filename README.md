@@ -4,7 +4,7 @@ Hi 👋 My name is Régis Adriano
 Frontend Developer
 ------------------
 
-I work with frontend development for 2 years, I have experience with the frameworks: VueJS (Axios, Vuex, Vuetify)
+I work with frontend development for 2 years, I have experience with the frameworks: VueJS (Axios + Vuex)
 NodeJS,
 bootstrap,
 TypeScript,
