@@ -4,7 +4,15 @@ Hi 👋 My name is Régis Adriano
 Frontend Developer
 ------------------
 
-Sou desenvolvedor frontend há 2 anos, tenho experiencia com VueJS/NodeJS
+I work with frontend development for 2 years, I have experience with the frameworks: VueJS (Axios, Vuex, Vuetify)
+NodeJS,
+bootstrap,
+TypeScript,
+Stylus,
+PugJS,
+HTML/CSS.
+
+I use agile methodologies to deliver projects (Daily, Planning Poker, Review and Retrospective are part of my routine).
 
 * 🌍  I'm based in Goiânia - GO
 * ✉️  You can contact me at [regisf97@gmail.com](mailto:regisf97@gmail.com)
