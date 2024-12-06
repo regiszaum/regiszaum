@@ -38,7 +38,7 @@ I have been working with frontend development for 5 years, building functional a
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
   </a>
   <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="Less" />
+    <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/less-512.png" width="36" height="36" alt="Less" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
