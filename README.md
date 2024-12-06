@@ -32,7 +32,7 @@ I have been working with frontend development for 5 years, building functional a
     <img src="https://amandeepmittal.gallerycdn.vsassets.io/extensions/amandeepmittal/pug/1.0.1/1509818475774/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="PugJS" />
   </a>
   <a href="https://stylus-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="Stylus" />
+    <img src="https://stylus-lang.com/favicon.ico" width="36" height="36" alt="Stylus" />
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
