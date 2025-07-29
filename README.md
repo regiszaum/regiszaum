@@ -77,8 +77,3 @@ I have been working with frontend development for 5 years, building functional a
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/regiszaum/regiszaum/output/snake.svg" alt="Snake animation" />
-
-###
