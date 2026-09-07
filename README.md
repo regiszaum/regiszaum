@@ -14,7 +14,7 @@ I use AI-assisted development tools to support codebase analysis, feature implem
 | Area             | Technologies                                                                       |
 | ---------------- | ---------------------------------------------------------------------------------- |
 | Frontend         | JavaScript, TypeScript, Vue.js, Nuxt.js, HTML, CSS                                 |
-| UI               | Tailwind CSS, Bootstrap, PrimeVue, Element Plus                                    |
+| UI               | Tailwind CSS, Bootstrap, PrimeVue, Element Plus, Nuxt UI                           |
 | Backend          | PHP, Laravel, Node.js, NestJS                                                      |
 | Databases        | MySQL, PostgreSQL                                                                  |
 | ORM              | Prisma, Eloquent                                                                   |
